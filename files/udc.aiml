@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>NAW CHEA</pattern>
+    <template>MN NAWM ARAS'A</template>
+  </category>
+  <category>
+    <pattern>NAW *</pattern>
+    <template><SRAI> NAW CHEA</SRAI></template>
+  </category>
+</aiml>
