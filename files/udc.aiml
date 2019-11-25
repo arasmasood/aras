@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>NAW CHEA</pattern>
-    <template>MN NAWM ARAS'A</template>
+    <pattern>who is aras</pattern>
+    <template>aras is lecturer in college of informatics.</template>
+    <pattern>i love you</pattern>
+    <template>really?</template>
+
   </category>
-  <category>
-    <pattern>NAW *</pattern>
-    <template><SRAI> NAW CHEA</SRAI></template>
-  </category>
+<category>
+    <pattern>what is your name</pattern>
+    <template>your name is aras</template>
+</category>
+<category>
+    <pattern>where do you live </pattern>
+    <template>sulaimanyah</template>
+</category>
+<category>
+    <pattern>do you love me </pattern>
+    <template>im not sure</template>
+</category>
+
+<category>
+    <pattern>Ø³ÙØ§Ù</pattern>
+    <template>ÚÛÙÛ</template>
+</category>
+<category>
+    <pattern>bayane bash</pattern>
+    <template>bayane che babaÂ </template>
+</category>
+<category>
+    <pattern>how old are you </pattern>
+    <template>i dont know?</template>
+</category>
 </aiml>
