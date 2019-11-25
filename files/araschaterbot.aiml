@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 	<!-- insert your AIML categories here -->
+
+<catagory>
+    
+    <pattern>
+       Tell me about * 
+    </pattern>
+    <template> 
+    here is some information about<star/>
+       <button>
+           <text> Click links Bellow </text>
+              <url>https://en.wikipedia.org/wiki/Paris<star/></url>
+</button>
+</template>
+</catagory>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
 </aiml>
